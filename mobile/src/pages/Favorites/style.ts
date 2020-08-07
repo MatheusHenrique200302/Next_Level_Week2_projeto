@@ -5,6 +5,9 @@ container:{
     flex:1,
     backgroundColor: '#f0f0f7',
 },
-
+teacherlist:{
+    marginTop: -40,
+    
+}
 });
 export default styles;
